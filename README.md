@@ -1,6 +1,5 @@
 # Personal Portfolio 🌟
 
-> HEY! This is a little sneak peek of what I am up to these days and what I aspire to become. Do check it out as it talks about my latest projects.
 
 A modern, responsive personal portfolio website showcasing my skills, projects, experience, and journey as a developer. Built with clean code and contemporary design principles to create an engaging user experience.
 
