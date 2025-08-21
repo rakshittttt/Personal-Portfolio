@@ -261,6 +261,9 @@ body::before {
 .social-icon.discord { background: linear-gradient(135deg, #5865f2, #7289da); }
 .social-icon.youtube { background: linear-gradient(135deg, #ff0000, #cc0000); }
 .social-icon.behance { background: linear-gradient(135deg, #1769ff, #0057ff); }
+.social-icon.phone { background: linear-gradient(135deg, #34c759, #2bbd5e); }
+.social-icon.whatsapp { background: linear-gradient(135deg, #25D366, #1ebe5d); }
+.social-icon.location { background: linear-gradient(135deg, #ff8a00, #e52e71); }
 
 .social-card:hover .social-icon {
     transform: scale(1.1) rotate(5deg);
