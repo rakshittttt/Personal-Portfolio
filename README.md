@@ -1,7 +1,7 @@
 # Personal Portfolio 🌟
 
 
-A modern, responsive personal portfolio website showcasing my skills, projects, experience, and journey as a developer. Built with clean code and contemporary design principles to create an engaging user experience.
+A modern, responsive personal portfolio website showcasing my skills, projects and journey. Built with clean code and contemporary design principles to create an engaging user experience.
 
 ## 🚀 Live Demo
 
